@@ -1,9 +1,6 @@
 # site settings
-title: facebook.jokeru.ro
+title: facebook
 description: bucăți din viață
 
 # build settings
 markdown: kramdown
-theme: jekyll-theme-architect
-github:
-  is_project_page: false
