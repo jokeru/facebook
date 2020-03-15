@@ -1,6 +1,3 @@
-# site settings
 title: facebook
 description: bucăți din viață
-
-# build settings
 markdown: kramdown
