@@ -1,1 +1,10 @@
+# site settings
+title: facebook.jokeru.ro
+email: ""
+description: bucăți din viață
+url: "https://facebook.jokeru.ro"
+baseurl: ""
+
+# build settings
+markdown: kramdown
 theme: jekyll-theme-architect
