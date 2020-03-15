@@ -1,3 +1,4 @@
 title: facebook
 description: bucăți din viață
-markdown: kramdown
+github:
+  repository_url: false
