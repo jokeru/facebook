@@ -1,3 +1,3 @@
 title: the realbook
 description: din găleată adunate
-permalink: /:title.html
+permalink: /:year:title.html
