@@ -1,3 +1,9 @@
 title: the realbook
 description: din găleată adunate
+author: JoKeru
+
 permalink: /:year/:title.html
+
+plugins:
+  - jekyll-feed
+  
