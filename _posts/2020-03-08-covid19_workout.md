@@ -8,7 +8,7 @@ categories: [covid19, workout, physical]
 
 ## Mens sana in corpore sano
 
-> thanks **[Gordon](https://twitter.com/grett85){:target="_blank"}** for feeding my body
+> thanks **[Gordon](https://twitter.com/gbrett85){:target="_blank"}** for feeding my body
 
 My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
 But this was a good thing, more time to train :D
