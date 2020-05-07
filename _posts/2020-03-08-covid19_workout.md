@@ -8,7 +8,8 @@ categories: [covid19, workout, physical]
 
 ## Mens sana in corpore sano
 
-> thanks **[Gordon](https://twitter.com/grett85){:target="_blank"}** for feeding my body
+> _How will people remember COVID-19 years from now ?_  
+> _For me it'll be the time I PB'd twice my running VO2 Max (and much more) !_
 
 My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
 But this was a good thing, more time to train :D
@@ -22,14 +23,14 @@ Tendon load and sensitivity decrease - [single leg wall sit](/pic/slws.jpeg){:ta
 
 | Week | Daily | Info |
 |------|-------|------|
-| #1 <br/> o9.o3 | single leg wall sit | lift one leg off the ground and drive through your heel<br/>aim for 3 x (10s in each position: 90 / 110 / 140 degrees) |
+| #1 <br/> o9.o3 | single leg wall sit | lift one leg off the ground and drive through your heel<br/>aim for 3 x (10" in each position: 90 / 110 / 140 degrees) |
 
 
 ### Block 1 - buildup
 
-Run, Forest, Run - not too easy, not too hard (most of the times :D)
+Run, Forest, Run: not too easy, not too hard - most of the times :D
 
-| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Total |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
 | #2 <br/> 16.03 | 5k run | | 5k run | | 5k run | | | single leg wall sit | 15k |
 | #3 <br/> 23.03 | 5k run | 4k run | | 5k run | 4k run | | | single leg wall sit | 18k |
@@ -45,6 +46,8 @@ Run, Forest, Run - not too easy, not too hard (most of the times :D)
 
 ### Block 2 - strenght
 
+> _The work outs and the stretches is you servicing your body like you would a car, eventually it will break down_
+
 - [lower body](/pic/legs-1.jpeg){:target="_blank"}
 - [stretch](/pic/mobility.jpeg){:target="_blank"}
 - core
@@ -58,7 +61,21 @@ Run, Forest, Run - not too easy, not too hard (most of the times :D)
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
 | #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) | 
+
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
 | #9 <br/> o4.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
+| #10 <br/> 11.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 7k run | lower body, stretch, 200 pushups | 30' easy run |
+| #11 <br/> 18.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 8.5k run | lower body, stretch, 200 pushups | 30' easy run |
+| #12 <br/> 25.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x15 pushups | 10k run | lower body, stretch, 200 pushups | 30' easy run |
+
 
 #### Key moments
 - o6.o5.2o2o: new VO2 Max [58](/pic/vo2max-58.jpeg){:target="_blank"}
+
+
+**the Journey continues !**
+
+---
+
+> _thanks **[Gordon](https://twitter.com/gbrett85){:target="_blank"}** for feeding my body_
