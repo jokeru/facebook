@@ -8,42 +8,45 @@ categories: [covid19, workout, physical]
 
 ## Mens sana in corpore sano
 
-> thanks **[Gordon](https://twitter.com/grett85)** for feeding my body
+> thanks **[Gordon](https://twitter.com/grett85){:target="_blank"}** for feeding my body
 
-My lockdown started Sunday o8 Mar 2o2o (having a case in the company) - which was a good thing, more time to train.
+My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
+But this was a good thing, more time to train :D
 
-Before that I've been doing some random runs in preparation for my [2o2o Half IM](/2020/half_im.html) - which was never to happen. But the knee pains were starting to creep up on the longer runs so I've decided to get professional help this time. Having met a pro dog around me, that call was easy. So he gave me a knee rehab program which looked more serious than a normal workout. But I've stopped questioning and just did it.
+Before that I've been running 2-3 times a week, in preparation for my [2o2o Half IM](/2020/half_im.html) - which was never to happen. But the [knee pains](/2019/03_57_22.html) were starting to creep up on the longer runs so I've decided to get professional help this time. Having met a Pro Dog around me, that call was easy. He gave me a knee rehab program which looked more serious than a normal workout. But I've stopped questioning and started working.
 
 
 ### Block 0 - here we go (again)
 
-Tendon load and sensitivity decrease
+Tendon load and sensitivity decrease.
 
 | Week | Daily | Info |
 |------|-------|------|
-| #1 <br/> 09.03 | [single leg wall sits](pic) | no need to cross your legs, simply lift one off the ground and drive through your heel<br/> aim for 3 x (10s in each position: 90 / 110 / 140 degrees) |
+| #1 <br/> 09.03 | [single leg wall sit](https://doctorlib.info/sport/mens-health-body/mens-health-body.files/image103.jpg) | lift one leg off the ground and drive through your heel<br/> aim for 3 x (10s in each position: 90 / 110 / 140 degrees) |
 
 
 ### Block 1 - buildup
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
-| #2 <br/> 16.03 | 5k run | | 5k run | | 5k run | | | single leg wall sits | 15k |
-| #3 <br/> 23.03 | 5k run | 4k run | | 5k run | 4k run | | | single leg wall sits | 18k |
-| #4 <br/> 30.04 | 5k run | 5k run | | 5k run | 5k run | | | single leg wall sits | 20k |
-| #5 <br/> 06.04 | 4k run | 4k run | 4k run | | 4k run | 4k run | | single leg wall sits | 20k |
-| #6 <br/> 13.04 | 5k run | 5k run | 5k run | | 4k run | 4k run | | single leg wall sits | 23k |
-| #7 <br/> 20.04 | 5k run | 5k run | 5k run | | 5k run | 5k run | | single leg wall sits | 25k |
+| #2 <br/> 16.03 | 5k run | | 5k run | | 5k run | | | single leg wall sit | 15k |
+| #3 <br/> 23.03 | 5k run | 4k run | | 5k run | 4k run | | | single leg wall sit | 18k |
+| #4 <br/> 30.04 | 5k run | 5k run | | 5k run | 5k run | | | single leg wall sit | 20k |
+| #5 <br/> 06.04 | 4k run | 4k run | 4k run | | 4k run | 4k run | | single leg wall sit | 20k |
+| #6 <br/> 13.04 | 5k run | 5k run | 5k run | | 4k run | 4k run | | single leg wall sit | 23k |
+| #7 <br/> 20.04 | 5k run | 5k run | 5k run | | 5k run | 5k run | | single leg wall sit | 25k |
 
 #### Key moments
-- 23.o3.2o2o - The day the UK Lockdown started.
-- 15.o4.2o2o - new VO2 Max [57](pic)
+- 23.o3.2o2o: UK Lockdown started (week #3 for me)
+- 15.o4.2o2o: new VO2 Max [57](pic)
 
-### Block 2 - adding some strenght
+
+### Block 2 - strenght
+
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
-| #8 <br/> 27.04 | 6k run | lower body<br/>stretch | 6k run | lower body<br/>stretch | 6k run | lower body<br/>stretch | 300 pushups<br/>(micro workout) | 
-| #9 <br/> 04.05 | 5k run<br/>lower body | walk<br/>stretch<br/>150 pushups<br/>core | intervals:<br/>4'easy+2'walk<br/>6x(4'fast+2'walk) | walk<br/>stretch<br/>10 x 10 pushups | 6k run | lower body<br/>stretch<br/>200 pushups | 30' easy run |
+| #8 <br/> 27.04 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) | 
+| #9 <br/> 04.05 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
 
 #### Key moments
 - o6.o5.2o2o - new VO2 Max [58](pic)
