@@ -8,7 +8,7 @@ categories: [covid19, workout, physical]
 
 ## Mens sana in corpore sano
 
-> thanks **[Gordon](https://twitter.com/gbrett85){:target="_blank"}** for feeding my body
+> _thanks **[Gordon](https://twitter.com/gbrett85){:target="_blank"}** for feeding my body_
 
 My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
 But this was a good thing, more time to train :D
@@ -27,9 +27,9 @@ Tendon load and sensitivity decrease - [single leg wall sit](/pic/slws.jpeg){:ta
 
 ### Block 1 - buildup
 
-Run, Forest, Run - not too easy, not too hard (most of the times :D)
+Run, Forest, Run: not too easy, not too hard - most of the times :D
 
-| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Total |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
 | #2 <br/> 16.03 | 5k run | | 5k run | | 5k run | | | single leg wall sit | 15k |
 | #3 <br/> 23.03 | 5k run | 4k run | | 5k run | 4k run | | | single leg wall sit | 18k |
