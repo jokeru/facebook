@@ -18,14 +18,16 @@ Before that I've been running 2-3 times a week, in preparation for my [2o2o Half
 
 ### Block 0 - here we go (again)
 
-Tendon load and sensitivity decrease.
+Tendon load and sensitivity decrease - [single leg wall sit](/pic/slws.jpeg){:target="_blank"}
 
 | Week | Daily | Info |
 |------|-------|------|
-| #1 <br/> 09.03 | [single leg wall sit](https://doctorlib.info/sport/mens-health-body/mens-health-body.files/image103.jpg) | lift one leg off the ground and drive through your heel<br/> aim for 3 x (10s in each position: 90 / 110 / 140 degrees) |
+| #1 <br/> o9.o3 | single leg wall sit | lift one leg off the ground and drive through your heel<br/>aim for 3 x (10s in each position: 90 / 110 / 140 degrees) |
 
 
 ### Block 1 - buildup
+
+Run, Forest, Run - not too easy, not too hard (most of the times :D)
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
@@ -37,16 +39,20 @@ Tendon load and sensitivity decrease.
 | #7 <br/> 20.04 | 5k run | 5k run | 5k run | | 5k run | 5k run | | single leg wall sit | 25k |
 
 #### Key moments
-- 23.o3.2o2o: UK Lockdown started (week #3 for me)
-- 15.o4.2o2o: new VO2 Max [57](pic)
+- 23.o3.2o2o: UK lockdown started (week #3 for me)
+- 15.o4.2o2o: new VO2 Max [57](/pic/vo2max-57.jpeg){:target="_blank"}
 
 
 ### Block 2 - strenght
 
+- [lower body](/pic/legs-1.jpeg){:target="_blank"}
+- [stretch](/pic/mobility.jpeg){:target="_blank"}
+- core: 
+
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
 |------|-----|-----|-----|-----|-----|-----|-----|-------|------|
-| #8 <br/> 27.04 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) | 
-| #9 <br/> 04.05 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
+| #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) | 
+| #9 <br/> o4.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
 
 #### Key moments
-- o6.o5.2o2o - new VO2 Max [58](pic)
+- o6.o5.2o2o: new VO2 Max [58](/pic/vo2max-58.jpeg){:target="_blank"}
