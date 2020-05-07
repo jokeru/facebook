@@ -47,10 +47,16 @@ Run, Forest, Run - not too easy, not too hard (most of the times :D)
 
 - [lower body](/pic/legs-1.jpeg){:target="_blank"}
 - [stretch](/pic/mobility.jpeg){:target="_blank"}
-- core: 
+- core
+  - 3 x
+    - 50" plank, 10" rest
+    - 50" left side plank, 10" rest
+    - 50" right side plank, 10" rest
+    - 50" crunches, 10" rest
+    - 50" alternate leg raise, 60" rest
 
-| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun | Daily | Info |
-|------|-----|-----|-----|-----|-----|-----|-----|-------|------|
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------|-----|-----|-----|-----|-----|-----|-----|
 | #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) | 
 | #9 <br/> o4.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
 
