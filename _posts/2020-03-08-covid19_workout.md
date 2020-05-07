@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Covid19 WorkOut"
-date: 2020-03-23
+date: 2020-03-08
 categories: [covid19, workout, physical]
 ---
 
