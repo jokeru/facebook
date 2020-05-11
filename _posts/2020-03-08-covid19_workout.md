@@ -9,12 +9,12 @@ categories: [covid19, workout, physical]
 ## Mens sana in corpore sano
 
 > _How will people remember COVID-19 years from now ?_  
-> _For me it'll be the time I PB'd twice my running VO2 Max (and much more) !_
+> _For me it'll be the time I PB'd ~once~ twice my running VO2 Max (and much more) !_
 
 My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
 But this was a good thing, more time to train :D
 
-Before that I've been running 2-3 times a week, in preparation for my [2o2o Half IM](/2020/half_im.html) - which was never to happen. But the [knee pains](/2019/03_57_22.html) were starting to creep up on the longer runs so I've decided to get professional help this time. Having met a Pro Dog around me, that call was easy. He gave me a knee rehab program which looked more serious than a normal workout. But I've stopped questioning and started working.
+Before that, I was running 2-3 times a week, in preparation for my [2o2o Half IM](/2020/half_im.html) - which was never to happen. But the [knee pains](/2019/03_57_22.html) were starting to creep up on the longer runs so I've decided to get professional help this time. Having met a Pro Dog that year, that call was easy. He gave me a knee rehab program which looked more serious than a normal workout. But I've stopped questioning and started working.
 
 
 ### Block 0 - here we go (again)
@@ -65,13 +65,14 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
 | #9 <br/> o4.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 6k run | lower body, stretch, 200 pushups | 30' easy run |
-| #10 <br/> 11.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 7k run | lower body, stretch, 200 pushups | 30' easy run |
-| #11 <br/> 18.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x10 pushups | 8.5k run | lower body, stretch, 200 pushups | 30' easy run |
-| #12 <br/> 25.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x15 pushups | 10k run | lower body, stretch, 200 pushups | 30' easy run |
+| #10 <br/> 11.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x15 pushups | 7k run | lower body, stretch, 200 pushups | 30' easy run |
+| #11 <br/> 18.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x20 pushups | 8.5k run | lower body, stretch, 200 pushups | 30' easy run |
+| #12 <br/> 25.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x25 pushups | 10k run | lower body, stretch, 200 pushups | 30' easy run |
 
 
 #### Key moments
 - o6.o5.2o2o: new VO2 Max [58](/pic/vo2max-58.jpeg){:target="_blank"}
+- 1o.o5.2o2o: UK lockdown continues
 
 
 **the Journey continues !**
