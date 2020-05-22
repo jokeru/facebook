@@ -41,15 +41,15 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 
 #### Key moments
 - 23.o3.2o2o: UK lockdown started (week #3 for me)
-- 15.o4.2o2o: new VO2 Max [57](/pic/vo2max-57.jpeg){:target="_blank"}
+- 15.o4.2o2o: <a data-fancybox="gallery" href="/pic/vo2max-57.jpeg" data-caption="new VO2 Max - 57">new VO2 Max - 57</a>
 
 
 ### Block 2 - strenght
 
 > _The work outs and the stretches is you servicing your body like you would a car, eventually it will break down_
 
-- [lower body](/pic/legs-1.jpeg){:target="_blank"}
-- [stretch](/pic/mobility.jpeg){:target="_blank"}
+- <a data-fancybox="gallery" href="/pic/legs-1.jpeg" data-caption="lower body workout">lower body</a>
+- <a data-fancybox="gallery" href="/pic/mobility.jpeg" data-caption="stretching">stretch</a>
 - core
   - 3 x
     - 50" plank, 10" rest
@@ -71,7 +71,7 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 
 
 #### Key moments
-- o6.o5.2o2o: new VO2 Max [58](/pic/vo2max-58.jpeg){:target="_blank"}
+- o6.o5.2o2o: <a data-fancybox="gallery" href="/pic/vo2max-58.jpeg" data-caption="new VO2 Max - 58">new VO2 Max - 58</a>
 - 1o.o5.2o2o: UK lockdown continues
 
 
