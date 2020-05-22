@@ -9,7 +9,7 @@ categories: [covid19, workout, physical]
 ## Mens sana in corpore sano
 
 > _How will people remember COVID-19 years from now ?_  
-> _For me it'll be the time I PB'd ~once~ twice my running VO2 Max (and much more) !_
+> _For me it'll be the time I PB'd not once but twice my running VO2 Max (and much more) !_
 
 My lockdown started Sunday o8 Mar 2o2o by having a case in the company.  
 But this was a good thing, more time to train :D
