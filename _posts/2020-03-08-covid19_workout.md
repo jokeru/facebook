@@ -19,7 +19,7 @@ Before that, I was running 2-3 times a week, in preparation for my [2o2o Half IM
 
 ### Block 0 - here we go (again)
 
-Tendon load and sensitivity decrease - [single leg wall sit](/pic/slws.jpeg){:target="_blank"}
+Tendon load and sensitivity decrease - <a data-fancybox="gallery" href="/pic/slws.jpeg" data-caption="single leg wall sit">single leg wall sit</a>
 
 | Week | Daily | Info |
 |------|-------|------|
