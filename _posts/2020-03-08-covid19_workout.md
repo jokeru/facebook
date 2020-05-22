@@ -60,7 +60,8 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
-| #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) |  
+| #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) |
+
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
