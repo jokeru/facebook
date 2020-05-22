@@ -58,10 +58,13 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
     - 50" crunches, 10" rest
     - 50" alternate leg raise, 60" rest
 
+#### warmpup
+
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
 | #8 <br/> 27.o4 | 6k run | lower body, stretch | 6k run | lower body, stretch | 6k run | lower body, stretch | 300 pushups (micro workouts) |
 
+#### main set
 
 | Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |------|-----|-----|-----|-----|-----|-----|-----|
@@ -69,7 +72,6 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 | #10 <br/> 11.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x15 pushups | 7k run | lower body, stretch, 200 pushups | 30' easy run |
 | #11 <br/> 18.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x20 pushups | 8.5k run | lower body, stretch, 200 pushups | 30' easy run |
 | #12 <br/> 25.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x25 pushups | 10k run | lower body, stretch, 200 pushups | 30' easy run |
-
 
 #### Key moments
 - o6.o5.2o2o: <a data-fancybox href="/pic/vo2max-58.jpeg" data-caption="new VO2 Max - 58">new VO2 Max - 58</a>
