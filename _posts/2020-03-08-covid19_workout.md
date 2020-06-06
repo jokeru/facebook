@@ -72,7 +72,7 @@ Run, Forest, Run: not too easy, not too hard - most of the times :D
 | #10 <br/> 11.o5 | 5k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x15 pushups | 7k run | lower body, stretch, 200 pushups | 30' easy run |
 | #11 <br/> 18.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x20 pushups | 8.5k run | lower body, stretch, 200 pushups | 30' easy run |
 | #12 <br/> 25.o5 | 6k run, lower body | walk, stretch, 150 pushups, core | intervals: 6x(4'fast+2'walk) | walk ,stretch, 10x25 pushups | 10k run | lower body, stretch, 200 pushups | 30' easy run |
-| #13 <br/> o1.o6 | 7k run, lower body | walk, stretch, 150 pushups, core | - | - | 12k run | lower body, stretch, 200 pushups | 30' easy run |
+| #13 <br/> o1.o6 | 7k run, lower body | walk, stretch, 150 pushups, core | - | - | 12k run | - | 30' easy run |
 
 
 #### Key moments
