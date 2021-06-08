@@ -1,3 +1,15 @@
+---
+layout: post
+title: "Double Marathon"
+date: 2021-06-06
+categories: [crazy, physical, mental]
+---
+
+
+## Race from the Tower 2021
+
+> _let's do Something !_ - **_yours truly_**
+
 
 
 6 mo worth of vitamins - only Mg was running related (D, MG, C ..)
