@@ -21,6 +21,7 @@ official - https://www.thresholdtrailseries.com/events/race-to-the-tower/
 
 Wildfit 90 Days challenge - 15 Feb to 15 May 2021 (couple solid weeks of ketosis)
 
+3 days before, 50% more water daily (3L / day in my case)
 
 race nutrition
 2 x nakd
