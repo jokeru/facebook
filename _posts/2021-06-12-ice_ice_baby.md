@@ -31,7 +31,7 @@ I'm also a bit familiar with the situation, I had the same feeling after long bi
   <a data-fancybox="gallery" href="/pic/ice-2.jpg" data-caption="and Peace"><img src="/pic/ice-2.jpg" height="240"></a>
 </p>
 
-#### Bonus content - [musica](https://open.spotify.com/user/timvandervliet8/playlist/02NeS4t2BfjxYbNNUlUgpj?si=7VQsfqFdQLKBEb8IvMIAyg){:target="_blank"}
+Bonus content - [musica](https://open.spotify.com/user/timvandervliet8/playlist/02NeS4t2BfjxYbNNUlUgpj?si=7VQsfqFdQLKBEb8IvMIAyg){:target="_blank"}  
 
 
 **the Journey continues !**
