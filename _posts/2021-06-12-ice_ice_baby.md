@@ -20,7 +20,8 @@ Second day - 5:30 minutes, hands under the ice. This really made a big differenc
 Under extreme cold, the extremities are the first ones to be "disconnected" (you can live with no legs or hands, but not without most of the organs) so my hands really took the hit on the second run.  
 
 3 weeks after the workshop, I still have some numbness in my right index, but I'm not too worried about it, I still have 9 healthy fingers left :D  
-I'm also a bit familiar with the situation, I had the same feeling after long bike rides (nerve compression syndrome),but I don't remember lasting for this long.  
+
+I'm also a bit familiar with the situation, I had the same feeling after long bike rides (nerve compression syndrome), but I don't remember lasting for this long.  
 
 <p style="text-align:center;">
   <a data-fancybox="gallery" href="/pic/ice-0.jpg" data-caption="Sleeping Beauty"><img src="/pic/ice-0.jpg" height="200"></a>
